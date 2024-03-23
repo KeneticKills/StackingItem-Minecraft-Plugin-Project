@@ -1,0 +1,8 @@
+name: StackingItems
+version: '${project.version}'
+main: kqz.stackingitems.main
+api-version: 1.19
+commands:
+  stackingitems:
+    usage: /<command>
+    description: Check the command you can use.
